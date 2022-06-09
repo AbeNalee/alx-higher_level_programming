@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 # 10-best_score.py
 
+
 def best_score(a_dictionary):
     """Returns a key with the biggest integer value.
     Checks if a thing is a dicrionary with the is instance method"""
