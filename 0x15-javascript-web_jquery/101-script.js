@@ -1,6 +1,6 @@
 $(document).ready(function () {
   $('div#add_item').on('click', function () {
-    $('ul.my_list').append('<LI>Item</LI>');
+    $('ul.my_list').append('<li>Item</li>');
   });
 
   $('div#remove_item').on('click', function () {
